@@ -55,7 +55,7 @@ else {
 enum packdaeD = "daeD";
 
 // Source paths
-enum srcdaeD = "../import/daeD/";
+enum srcdaeD = "../import/daed/";
 
 // Map package names to source paths.
 string[string] pathMap;
