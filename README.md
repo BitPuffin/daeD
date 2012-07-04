@@ -12,4 +12,6 @@ assets, and I want the format to be an open standard - so Collada it is!
 Check the LICENSE.txt file bundled with this source distribution for terms of use. SPOILER:
 It's zlib.
 
+Remember, assimp is grown - daeD is designed :)
+
 Enjoy this library!
